@@ -1,7 +1,7 @@
 ## Portfólio HTML
 
 
-<h1 align="center">:sparkling_heart: Projeto Portifólio - Turma Alves - Labenu :sparkling_heart: </h1>
+<h1 align="center"> Projeto Portifólio - Turma Alves - Labenu  </h1>
 
 
 
